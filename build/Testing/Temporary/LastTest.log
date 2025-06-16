@@ -1,0 +1,57 @@
+Start testing: Jun 15 18:59 MDT
+----------------------------------------------------------
+1/2 Testing: Vector2D.Addition
+1/2 Test: Vector2D.Addition
+Command: "/Users/vaibh123540/Desktop/Projects/GameEngine/build/math_tests" "--gtest_filter=Vector2D.Addition" "--gtest_also_run_disabled_tests"
+Directory: /Users/vaibh123540/Desktop/Projects/GameEngine/build
+"Vector2D.Addition" start time: Jun 15 18:59 MDT
+Output:
+----------------------------------------------------------
+Running main() from /private/tmp/googletest-20250430-4821-wmp7n2/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Vector2D.Addition
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Vector2D
+[ RUN      ] Vector2D.Addition
+[       OK ] Vector2D.Addition (0 ms)
+[----------] 1 test from Vector2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Vector2D.Addition" end time: Jun 15 18:59 MDT
+"Vector2D.Addition" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: Vector2D.ScalarMultiplication
+2/2 Test: Vector2D.ScalarMultiplication
+Command: "/Users/vaibh123540/Desktop/Projects/GameEngine/build/math_tests" "--gtest_filter=Vector2D.ScalarMultiplication" "--gtest_also_run_disabled_tests"
+Directory: /Users/vaibh123540/Desktop/Projects/GameEngine/build
+"Vector2D.ScalarMultiplication" start time: Jun 15 18:59 MDT
+Output:
+----------------------------------------------------------
+Running main() from /private/tmp/googletest-20250430-4821-wmp7n2/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Vector2D.ScalarMultiplication
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Vector2D
+[ RUN      ] Vector2D.ScalarMultiplication
+[       OK ] Vector2D.ScalarMultiplication (0 ms)
+[----------] 1 test from Vector2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Vector2D.ScalarMultiplication" end time: Jun 15 18:59 MDT
+"Vector2D.ScalarMultiplication" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 15 18:59 MDT

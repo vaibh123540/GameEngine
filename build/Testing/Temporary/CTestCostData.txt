@@ -1,0 +1,3 @@
+Vector2D.Addition 1 0.00407917
+Vector2D.ScalarMultiplication 1 0.00199833
+---

@@ -1,0 +1,5 @@
+if(EXISTS "/Users/vaibh123540/Desktop/Projects/GameEngine/build/math_tests[1]_tests.cmake")
+  include("/Users/vaibh123540/Desktop/Projects/GameEngine/build/math_tests[1]_tests.cmake")
+else()
+  add_test(math_tests_NOT_BUILT math_tests_NOT_BUILT)
+endif()
